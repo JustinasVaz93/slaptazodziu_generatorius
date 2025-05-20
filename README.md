@@ -1,0 +1,2 @@
+# slaptazodziu_generatorius
+Slaptazodziu generatoriaus programa

@@ -29,3 +29,5 @@ python slaptažodžių_generatorius.py
 Šis projektas yra laisvas naudoti mokymosi ar asmeniniams tikslams.
 
 Sukūrė: [JustinasVaz93]
+
+Kontaktai: justinworkbox@gmail.com
